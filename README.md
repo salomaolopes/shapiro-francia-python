@@ -1,0 +1,1 @@
+Executa teste Shapiro-Francia no Python usando a biblioteca nortest do R.
